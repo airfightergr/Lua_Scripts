@@ -32,3 +32,4 @@ local f=io.open(foldername..t[i], "a")  --a new file for appending.) It will ove
 f:write("\n", text1)                    --write the text we got from the user at a new line(\n) at the end of the file
 f:close()                               --close the file(s)
 end
+

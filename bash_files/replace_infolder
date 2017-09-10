@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#Run Lua scipt: add_line.
+#The script adds a line of text at the end of all text file in a folder
+
+lua /home/ilias/Downloads/X-PLANE/TOOLS/replace_infolder.lua

@@ -18,7 +18,7 @@ text1=io.read()         --Read users input and store it into text 1
 
 
 t={}                --Create a table to store the file names
-fn = io.popen('ls ' .. foldername)  --list the files in the folder
+fn = io.popen('ls ' .. foldername)  --list the files in the folder. 'ls': this argument is for shell commands (unix here)
 for name in fn:lines() do
 table.insert(t,name)                --and add them to the table "t"
 

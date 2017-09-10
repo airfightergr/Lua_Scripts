@@ -4,7 +4,7 @@ By adding in Terminal the command:
 
 $ chmod +x ./add_line
 
-you can make it executable in terminal, typing directly
+you can make it executable in terminal, and run it by typing directly the command:
 
 $ ./add_line
 

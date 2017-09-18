@@ -9,4 +9,6 @@ Requirements:
 
 Note: Developed and tested for Unix systems (aka Linux and Mac OS). Probably windows will be supported in the future.
 
+I have added a bash_files folder that contain some bash files for Linux, and you can make them lunch directly from terminal as a command.
+
 GNU GPLv3 Licence
